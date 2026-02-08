@@ -1,0 +1,3 @@
+[submodule "shared"]
+	path = shared
+	url = ssh://git@github.com/flanux/-bank-shared-kit.git
